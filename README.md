@@ -60,7 +60,7 @@ In this, we did not use any framework to call api, just used BaseHTTPRequestHand
 1. Get a free API Key at [https://developer.twitter.com/](https://developer.twitter.com/)
 2. Clone this repo
    ```sh
-   git clone https://github.com/karansingla007/SOEN6441_APP_project
+   git clone https://github.com/saurabhs679/Twitter-Clone.git
    ```
 3. Install latest version of python
 4. Run `main.py` and open default browser
@@ -77,7 +77,7 @@ In this, we did not use any framework to call api, just used BaseHTTPRequestHand
 [//]: # (## Contact)
 
 [//]: # ()
-[//]: # (Karan Singla - [@karansinglaOO7]&#40;https://twitter.com/karansinglaOO7&#41; - karansingla120@gmail.com)
+[//]: # (Saurabh Sharma - [@saurabhs679]&#40;https://www.linkedin.com/in/saurabh-sharma1/&#41; - saurabhs679@gmail.com)
 
 [//]: # ()
 [//]: # (<p align="right">&#40;<a href="#readme-top">back to top</a>&#41;</p>)
